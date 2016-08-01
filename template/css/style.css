@@ -333,4 +333,17 @@ a.btn:hover{
 	background-color:#eff4d6;
 }
 
+#header{
+	background-color:green;
+	height:200px;
+	width:100px;
+	font-size:20px;
+}
+p{
+	color:red;
+	font-size:20px;
+	background-color:lightgreen;
+	line-height:2px;
+	font-weight:200;
+}
 /*----end footer content----*/
