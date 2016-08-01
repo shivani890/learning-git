@@ -346,4 +346,8 @@ p{
 	line-height:2px;
 	font-weight:200;
 }
+h1{
+	font-size:20px;
+	color:red;
+}
 /*----end footer content----*/
